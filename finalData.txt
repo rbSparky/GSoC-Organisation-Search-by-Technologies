@@ -1,0 +1,203 @@
+<li><p><b>52°North GmbH</b><br><b>Tags: </b>javascript,java,ogc standards,web services,python,<br><b>Technologies: </b>Science and Medicine,spatial information infrastructures,citizen science,open standards,geoinformation systems,</p></li>
+<li><p><b>AboutCode</b><br><b>Tags: </b>python,django,javascript,postgres,<br><b>Technologies: </b>Other,software composition analysis,software packages,scanning,</p></li>
+<li><p><b>Accord Project</b><br><b>Tags: </b>javascript,react,coq,ocaml,compiler,<br><b>Technologies: </b>Programming Languages and Development Tools,smart contracts,legal,blockchain,compilers,ai,</p></li>
+<li><p><b>AerospaceResearch.net</b><br><b>Tags: </b>python,sqlite,raspberry pi,machine learning,sdr,<br><b>Technologies: </b>Science and Medicine,cubesats,space applications,software defined radio,simulations,signal processing,</p></li>
+<li><p><b>AFLplusplus</b><br><b>Tags: </b>fuzzing,instrumentation,c/c++,rust,llvm,<br><b>Technologies: </b>Security,fuzzing,secure development,instrumentation,</p></li>
+<li><p><b>Android Graphics Tools Team</b><br><b>Tags: </b>c++,spir-v,webgpu,opengl,java,<br><b>Technologies: </b>Programming Languages and Development Tools,fuzzing,developer tools,bug finding,graphics,</p></li>
+<li><p><b>AnkiDroid</b><br><b>Tags: </b>java,javascript,gradle,android,<br><b>Technologies: </b>End User Applications,android,user generated content,flashcard,education,</p></li>
+<li><p><b>AOSSIE</b><br><b>Tags: </b>scala,javascript,machine learning,android,ios,<br><b>Technologies: </b>End User Applications,electronic voting,social science,machine learning,natural language processing,</p></li>
+<li><p><b>Apertium</b><br><b>Tags: </b>c++,python,bash,xml,javascript,<br><b>Technologies: </b>Other,machine translation,natural language processing,less-resourced languages,</p></li>
+<li><p><b>apertus° Association</b><br><b>Tags: </b>fpga,linux,embedded,vhdl,c/c++,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,camera,computational photography,computer vision,image processing,digital imaging,</p></li>
+<li><p><b>ArduPilot</b><br><b>Tags: </b>drones,robotics,c/c++,linux,python,<br><b>Technologies: </b>Other,vison,robotics,embedded systems,real-time,drones,</p></li>
+<li><p><b>Audacity</b><br><b>Tags: </b>c++,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,audio editor,audio,audio analysis,audio processing,</p></li>
+<li><p><b>BeagleBoard.org Foundation</b><br><b>Tags: </b>risc-v,linux,arm,dsp,fpga,<br><b>Technologies: </b>Programming Languages and Development Tools,ai,iot,open hardware,robotics,process automation,Bench-Routes,Bench-routes is an open-source project to analyze performance and monitor APIs.,</p></li>
+<li><p><b>Blender Foundation</b><br><b>Tags: </b>c,c++,python,opengl,vulkan,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,graphics,3d tools,rendering,3d animation,virtual reality,</p></li>
+<li><p><b>Boost C++ Libraries</b><br><b>Tags: </b>c++,c++11,c++14,c++17,c++20,<br><b>Technologies: </b>Programming Languages and Development Tools,c++,algorithms,data structures,image processing,</p></li>
+<li><p><b>BRL-CAD</b><br><b>Tags: </b>opencl,opengl,c/c++,python,scripting,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,geometry,ray tracing,visualization,2d/3d graphics,high performance computing,</p></li>
+<li><p><b>caMicroscope</b><br><b>Tags: </b>javascript,python,medical imaging,tensorflow,mongodb,<br><b>Technologies: </b>Science and Medicine,data integration,machine learning,distributed systems,science and medicine,</p></li>
+<li><p><b>Casbin</b><br><b>Tags: </b>golang,java,javascript,python,nodejs,<br><b>Technologies: </b>Security,security,cloud,web,</p></li>
+<li><p><b>CASTOR</b><br><b>Tags: </b>java,scala,bytecode,<br><b>Technologies: </b>Programming Languages and Development Tools,testing,optimization,development,automated program repair,software analysis,</p></li>
+<li><p><b>CCExtractor Development</b><br><b>Tags: </b>rust,c,python,flutter,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,video,subtitles,media,bittorrent,</p></li>
+<li><p><b>Center for Research in Open Source Software, UC Santa Cruz</b><br><b>Tags: </b>c/c++,c++17,arrow,ceph,robotics,<br><b>Technologies: </b>Other,hardware,storage,databases,sensors,callibration,</p></li>
+<li><p><b>Ceph</b><br><b>Tags: </b>c++,python,angular,javascript,typescript,<br><b>Technologies: </b>Data and Databases,distributed systems,storage,</p></li>
+<li><p><b>CERN-HSF</b><br><b>Tags: </b>c/c++,python,data analysis,concurrency,container orchestration,<br><b>Technologies: </b>Science and Medicine,particle physics,big data science,performance optimization,machine learning,algorithmics,</p></li>
+<li><p><b>CGAL Project</b><br><b>Tags: </b>c/c++,qt,<br><b>Technologies: </b>Science and Medicine,computation geometry,geometry processing,mesh processing,geometry,</p></li>
+<li><p><b>CHAOSS Project</b><br><b>Tags: </b>python,vue,elk,nltk,fossology,<br><b>Technologies: </b>Other,community,metrics,analytics,dependencies,diversity and inclusion,</p></li>
+<li><p><b>Chapel</b><br><b>Tags: </b>chapel,high performance computing,c,c++,python,<br><b>Technologies: </b>Programming Languages and Development Tools,programming languages,compilers,high performance computing,distributed computing,parallel computing,</p></li>
+<li><p><b>Checkstyle</b><br><b>Tags: </b>java,antlr,<br><b>Technologies: </b>Programming Languages and Development Tools,static code analysis,code review tool,coding standards,coding conventions,</p></li>
+<li><p><b>Chromium</b><br><b>Tags: </b>c++,java,git,javascript,python,<br><b>Technologies: </b>Web,web,browser,operating-system,</p></li>
+<li><p><b>Cilium</b><br><b>Tags: </b>ebpf,kubernetes,c,go,linux,<br><b>Technologies: </b>Cloud,cloud-native,networking,kernel,</p></li>
+<li><p><b>CircuitVerse.org</b><br><b>Tags: </b>rails,canvas,machine learning,javascript,internationalization,<br><b>Technologies: </b>Web,web,simulations,pedagogy,education,digital logic design,</p></li>
+<li><p><b>CloudCV</b><br><b>Tags: </b>python,django,aws,docker,angular,<br><b>Technologies: </b>Cloud,machine learning,artificial intelligence,deep learning,computer vision,reinforcement learning,</p></li>
+<li><p><b>CiviCRM LLC</b><br><b>Tags: </b>mysql,php,angular,<br><b>Technologies: </b>End User Applications,crm,nonprofit,</p></li>
+<li><p><b>CNCF</b><br><b>Tags: </b>kubernetes,go,rust,<br><b>Technologies: </b>Cloud,cloud computing,</p></li>
+<li><p><b>coala</b><br><b>Tags: </b>python 3,django,antlr,haskell,docker,<br><b>Technologies: </b>Programming Languages and Development Tools,static code analysis,chat,devops,</p></li>
+<li><p><b>Continuous Delivery Foundation</b><br><b>Tags: </b>jenkins,tekton,spinnaker,ortelius,screwdriver.cd,<br><b>Technologies: </b>Programming Languages and Development Tools,continuous delivery,great developer tooling,developer tools,</p></li>
+<li><p><b>CRIU</b><br><b>Tags: </b>linux kernel,c,python,<br><b>Technologies: </b>Operating Systems,containers,operating systems,live migration,checkpoint-restore,</p></li>
+<li><p><b>Cuneiform Digital Library Initiative (CDLI)</b><br><b>Tags: </b>php,mysql,python,javascript,java,<br><b>Technologies: </b>Data and Databases,digitization,cultural heritage,nlp,</p></li>
+<li><p><b>Dart</b><br><b>Tags: </b>dart,flutter,programming-language,<br><b>Technologies: </b>Programming Languages and Development Tools,mobile apps,</p></li>
+<li><p><b>DBpedia</b><br><b>Tags: </b>rdf,scala,sparql,python,javascript,<br><b>Technologies: </b>Data and Databases,knowledge graphs,data analytics,data extraction,natural language processing,data science,</p></li>
+<li><p><b>Debian</b><br><b>Tags: </b>git,python,javascript,c/c++,irc,<br><b>Technologies: </b>Operating Systems,operating systems,kernel,package managers,packaging,</p></li>
+<li><p><b>DeepPavlov</b><br><b>Tags: </b>python,docker,python deep learning frameworks,tensorflow,pytorch,<br><b>Technologies: </b>Other,nlp,conversational,agent,</p></li>
+<li><p><b>Department of Biomedical Informatics (BMI), Emory University School of Medicine</b><br><b>Tags: </b>python,java,deeplearning,medical imaging,tensorflow,<br><b>Technologies: </b>Science and Medicine,science and medicine,data integration,distributed systems,cloud,workflows,</p></li>
+<li><p><b>Department of Biomedical Informatics (BMI), Emory University School of Medicine</b><br><b>Tags: </b>python,java,deeplearning,medical imaging,tensorflow,<br><b>Technologies: </b>Science and Medicine,science and medicine,data integration,distributed systems,cloud,workflows,</p></li>
+<li><p><b>Department of Biomedical Informatics (BMI), Emory University School of Medicine</b><br><b>Tags: </b>python,java,deeplearning,medical imaging,tensorflow,<br><b>Technologies: </b>Science and Medicine,science and medicine,data integration,distributed systems,cloud,workflows,d,</p></li>
+<li><p><b>Digital Impact Alliance (DIAL) at UN Foundation</b><br><b>Tags: </b>javascript,android,python,linux,many more,<br><b>Technologies: </b>Other,nonprofit,humanrights,humanitarian,international,global,</p></li>
+<li><p><b>Django Software Foundation</b><br><b>Tags: </b>python,django,<br><b>Technologies: </b>Web,web development,</p></li>
+<li><p><b>Elm Tooling</b><br><b>Tags: </b>elm,functional programming,typescript,<br><b>Technologies: </b>Programming Languages and Development Tools,tooling,linter,parser,web,</p></li>
+<li><p><b>FFmpeg</b><br><b>Tags: </b>c,assembler,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,video,audio,subtitles,images,multimedia,</p></li>
+<li><p><b>Fortran-lang</b><br><b>Tags: </b>fortran,python,c/c++,compiler,llvm,<br><b>Technologies: </b>Programming Languages and Development Tools,science,engineering,high-performance computing,libraries,numerical computing,</p></li>
+<li><p><b>FOSSology</b><br><b>Tags: </b>php,c/c++,javascript,postgresql,python,<br><b>Technologies: </b>Other,compliance,license management,licensing,</p></li>
+<li><p><b>FrameNet Brasil (UFJF)</b><br><b>Tags: </b>php,mysql,javascript,python,<br><b>Technologies: </b>Data and Databases,natural language processing,natural language understanding,multimodal communication,multilinguality,</p></li>
+<li><p><b>Free and Open Source Silicon Foundation</b><br><b>Tags: </b>verilog,compiler,risc-v,web development,jenkins,<br><b>Technologies: </b>Other,hardware,web services,debug,simulation,electronic design tools,</p></li>
+<li><p><b>FreeBSD Project</b><br><b>Tags: </b>c/c+,llvm,shell script,assembly,make,<br><b>Technologies: </b>Operating Systems,operating systems,virtualization,embedded systems,cloud,kernel,</p></li>
+<li><p><b>FreeType</b><br><b>Tags: </b>c,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,truetype,opentype,fonts,graphics,rendering,</p></li>
+<li><p><b>freifunk</b><br><b>Tags: </b>rust,c/c++,json,python,shell,<br><b>Technologies: </b>Social / Communications,open hardware,embedded systems,wireless networks,decentralized,federation,</p></li>
+<li><p><b>FRRouting</b><br><b>Tags: </b>c,linux,linux kernel,networking,routing,<br><b>Technologies: </b>Other,networking,routing,software defined networking,systems programming,linux,freifunk,Freifunk is a non-commercial initiative for free and open wireless networks.,</p></li>
+<li><p><b>Genome Assembly and Annotation</b><br><b>Tags: </b>python,rust,pytorch,javascript,mysql,<br><b>Technologies: </b>Science and Medicine,deep learning,cloud,genomics,data science,workflows,</p></li>
+<li><p><b>Gentoo Foundation</b><br><b>Tags: </b>shell,bash,c/c++,python,linux,<br><b>Technologies: </b>Operating Systems,operating systems,package,embedded,security,automation,</p></li>
+<li><p><b>GeomScale</b><br><b>Tags: </b>c++,python,r,jupyter,github-actions,<br><b>Technologies: </b>Science and Medicine,computation geometry,statistics,computational biology,mathematics,data science,</p></li>
+<li><p><b>GFOSS - Open Technology Alliance</b><br><b>Tags: </b>python,javascript,mysql,python deep learning frameworks,perl,<br><b>Technologies: </b>Other,python,java,javascript,open hardware,perl,</p></li>
+<li><p><b>Git</b><br><b>Tags: </b>c language,shell script,git,<br><b>Technologies: </b>Programming Languages and Development Tools,version control,dvcs,</p></li>
+<li><p><b>GitLab</b><br><b>Tags: </b>ruby,git,ci,devops,golang,<br><b>Technologies: </b>Programming Languages and Development Tools,devops,</p></li>
+<li><p><b>Global Alliance for Genomics and Health</b><br><b>Tags: </b>java,python,spring,sql,hl7 fhir,<br><b>Technologies: </b>Science and Medicine,genomics,healthcare,data security,cloud,data discovery,</p></li>
+<li><p><b>GNOME Foundation</b><br><b>Tags: </b>gtk,python,c,javascript,rust,<br><b>Technologies: </b>Operating Systems,desktop,design,operating system,end user application,application,</p></li>
+<li><p><b>GNSS-SDR</b><br><b>Tags: </b>c++11,c++14,c++17,c++20,gnss,<br><b>Technologies: </b>Science and Medicine,gnss,geospatial,navigation,signal processing,software defined radio,</p></li>
+<li><p><b>GNU Compiler Collection (GCC)</b><br><b>Tags: </b>c/c++,gnu autotools,gnu make,<br><b>Technologies: </b>Programming Languages and Development Tools,compilers,developer tools,toolchain,openmp,rust,</p></li>
+<li><p><b>GNU Mailman Project</b><br><b>Tags: </b>python,django,restful api,sqlalchemy,<br><b>Technologies: </b>Social / Communications,mail,web,</p></li>
+<li><p><b>GNU Octave</b><br><b>Tags: </b>c++,hg,<br><b>Technologies: </b>Programming Languages and Development Tools,mathematics,numerical computation,numerical methods,matlab,scientific computing,</p></li>
+<li><p><b>GNU Radio</b><br><b>Tags: </b>c++,python,qt,<br><b>Technologies: </b>Science and Medicine,software defined radio,signal processing,communication,</p></li>
+<li><p><b>Godot Engine</b><br><b>Tags: </b>c/c+,opengl,vulkan,gdscript,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,game engines,cross-platform,graphics,virtual reality,</p></li>
+<li><p><b>Google FHIR SDK</b><br><b>Tags: </b>fhir,android,kotlin,sqlite,materialui,<br><b>Technologies: </b>Science and Medicine,global health,ai,precision health,gis,enteprise analytics,</p></li>
+<li><p><b>gprMax</b><br><b>Tags: </b>python,cuda,openmp,cython,mpi,<br><b>Technologies: </b>Science and Medicine,engineering,geophysics,science,electromagnetics,optimisation,</p></li>
+<li><p><b>GRR Rapid Response</b><br><b>Tags: </b>python 3,angular,typescript,materialui,backend,<br><b>Technologies: </b>Security,computer security,digital forensics,</p></li>
+<li><p><b>gVisor</b><br><b>Tags: </b>golang,linux,posix,c/c++,<br><b>Technologies: </b>Operating Systems,containers,sandbox,virtualization,kernel,</p></li>
+<li><p><b>Haiku</b><br><b>Tags: </b>c++,bsd unix,posix,virtualization,<br><b>Technologies: </b>Operating Systems,desktop,network,media,graphics,web,</p></li>
+<li><p><b>Halide</b><br><b>Tags: </b>llvm,c++,<br><b>Technologies: </b>Programming Languages and Development Tools,compilers,graphics,high-performance computing,computer vision,</p></li>
+<li><p><b>Haskell.org</b><br><b>Tags: </b>haskell,ghc,compiler,<br><b>Technologies: </b>Programming Languages and Development Tools,#functional-programming,#education,#compilers,#programming-languages,#programming-tools,</p></li>
+<li><p><b>Hydra Ecosystem</b><br><b>Tags: </b>postgresql,docker,javascript,redis,python,<br><b>Technologies: </b>Web,semantic web,web services,linked data,knowledge graphs,rest apis,</p></li>
+<li><p><b>INCF</b><br><b>Tags: </b>python,c/c++,tensorflow,java,javascript,<br><b>Technologies: </b>Science and Medicine,neuroscience,neuroimaging,brain modelling,data visualization,big data,</p></li>
+<li><p><b>Inkscape</b><br><b>Tags: </b>c/c++,python 3,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,vector graphics,design,web,</p></li>
+<li><p><b>Integrated Ocean Observing System (IOOS)</b><br><b>Tags: </b>python,big data science,ocean technology,<br><b>Technologies: </b>Other,earth sciences,data science,open data,data discovery,</p></li>
+<li><p><b>Intel Video and Audio for Linux</b><br><b>Tags: </b>ffmpeg,gstreamer,libxcam,vaapi,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,graphics / video / audio / virtual reality,360 stereo video,ffmpeg neuronetwork,</p></li>
+<li><p><b>International Catrobat Association</b><br><b>Tags: </b>android,swift,php,javascript,kotlin,<br><b>Technologies: </b>Programming Languages and Development Tools,visual programming,mobile programming,game engines,creativity tools,education,</p></li>
+<li><p><b>Internet Archive</b><br><b>Tags: </b>python,javascript,hadoop,elasticsearch,golang,<br><b>Technologies: </b>Web,archiving,</p></li>
+<li><p><b>JabRef e.V.</b><br><b>Tags: </b>java,javafx,bibtex,latex,typescript,<br><b>Technologies: </b>Science and Medicine,science,literature,library,</p></li>
+<li><p><b>Java PathFinder</b><br><b>Tags: </b>android,distributed systems,java,jvm,<br><b>Technologies: </b>Programming Languages and Development Tools,model checking,symbolic execution,verification of concurrent systems,program analysis,jvm,</p></li>
+<li><p><b>JBoss Community</b><br><b>Tags: </b>java,golang,rust,kubernetes,node.js,<br><b>Technologies: </b>Web,iot,cloud,machine learning,messaging,cfc,</p></li>
+<li><p><b>JdeRobot - Universidad Rey Juan Carlos</b><br><b>Tags: </b>ros,gazebo,tensorflow,opencv,python,<br><b>Technologies: </b>Other,robotics,education,computer vision,developer tools,artificial intelligence,</p></li>
+<li><p><b>Joomla!</b><br><b>Tags: </b>php,javascript,mysql,html,css,<br><b>Technologies: </b>Web,web,web development,web applications,programming languages,cms,</p></li>
+<li><p><b>Joplin</b><br><b>Tags: </b>node.js,electron,react native,react,javascript,<br><b>Technologies: </b>End User Applications,notes,synchronisation,sharing,encryption,cross-platform,</p></li>
+<li><p><b>KDE Community</b><br><b>Tags: </b>c++,qt,qml,data structures,opengl,<br><b>Technologies: </b>End User Applications,education,science,art,</p></li>
+<li><p><b>Kiwix</b><br><b>Tags: </b>python,c/c++,typescript,kotlin,nodejs,<br><b>Technologies: </b>Other,offline access,</p></li>
+<li><p><b>Kodi</b><br><b>Tags: </b>c++,ffmpeg,sqlite,python,opengl,<br><b>Technologies: </b>End User Applications,media,video,audio,games,</p></li>
+<li><p><b>LabLua</b><br><b>Tags: </b>lua,céu,kernel,<br><b>Technologies: </b>Programming Languages and Development Tools,scripting languages,reactive languages,</p></li>
+<li><p><b>Learning Equality</b><br><b>Tags: </b>django,vue.js,python,javascript,<br><b>Technologies: </b>End User Applications,offline,distributed databases,education,learning,</p></li>
+<li><p><b>libcamera</b><br><b>Tags: </b>c/c++,qt5,gstreamer,v4l2,linux kernel,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,camera,image processing,</p></li>
+<li><p><b>Libre Space Foundation</b><br><b>Tags: </b>python,django,sdr,embedded systems,machine learning,<br><b>Technologies: </b>Science and Medicine,space applications,satellite data,orbital dynamics,space standards,</p></li>
+<li><p><b>LibreCube Initiative</b><br><b>Tags: </b>python,micropython,zmq,mbed,<br><b>Technologies: </b>Science and Medicine,space,cubesat,mission control,</p></li>
+<li><p><b>LibreHealth</b><br><b>Tags: </b>android,java,javascript,python,php,<br><b>Technologies: </b>Science and Medicine,web,radiology,deep learning,mobile apps,</p></li>
+<li><p><b>LibreOffice</b><br><b>Tags: </b>c++,python,java,<br><b>Technologies: </b>End User Applications,office suite,end user application,desktop application,</p></li>
+<li><p><b>libvirt</b><br><b>Tags: </b>kvm,hypervisor,xen,<br><b>Technologies: </b>Cloud,virtualization,library,</p></li>
+<li><p><b>Liquid Galaxy project</b><br><b>Tags: </b>python,java,android,machinelearning,arduino,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,maps,visualization,cluster,linux,google earth,</p></li>
+<li><p><b>Machine Learning for Science (ML4SCI) Umbrella Organization</b><br><b>Tags: </b>python,machine learning,c/c++,data analysis,artificial intelligence,<br><b>Technologies: </b>Science and Medicine,science and medicine,machine learning,physics,astronomy,algorithms,</p></li>
+<li><p><b>MapAction</b><br><b>Tags: </b>python,apache airflow,data analysis,gis,visualization,<br><b>Technologies: </b>Other,humanitarian,maps,google cloud,data processing,geospatial,</p></li>
+<li><p><b>MariaDB Foundation</b><br><b>Tags: </b>mariadb,mysql,c,c++,python,<br><b>Technologies: </b>Data and Databases,databases,sql,performance,distributed systems,cloud,</p></li>
+<li><p><b>Matrix.org</b><br><b>Tags: </b>decentralisation,python,rust,javascript,c++,<br><b>Technologies: </b>Social / Communications,decentralized,decentralisation,json,</p></li>
+<li><p><b>Mayor's Office of New Urban Mechanics (City of Boston)</b><br><b>Tags: </b>python,javascript,<br><b>Technologies: </b>Other,machine learning,civic tech,web,gis,</p></li>
+<li><p><b>MBDyn</b><br><b>Tags: </b>c/c++,python,<br><b>Technologies: </b>Science and Medicine,computational mechanics,multibody dynamics,simulation,aeroelasticity,multiphysics,</p></li>
+<li><p><b>MDAnalysis</b><br><b>Tags: </b>python,c/c++,cython,<br><b>Technologies: </b>Science and Medicine,simulation,trajectory analysis,soft matter physics,materials,biochemistry,</p></li>
+<li><p><b>Media Cloud</b><br><b>Tags: </b>javascript,python,react,docker,postgresql,<br><b>Technologies: </b>Other,media,news-media,media-analytics,civic-tech,research,</p></li>
+<li><p><b>MediaPipe</b><br><b>Tags: </b>android,ios,python,javascript,c++,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,real-time,machine learning,computer vision,ml-inference,deep learning,</p></li>
+<li><p><b>MetaBrainz Foundation Inc</b><br><b>Tags: </b>python,postgresql,spark,react,rust,<br><b>Technologies: </b>Data and Databases,open data,music,books,databases,hosting,</p></li>
+<li><p><b>MetaCall</b><br><b>Tags: </b>c/c++,javascript,python,cmake,guix,<br><b>Technologies: </b>Programming Languages and Development Tools,development tools,programming languages,polyglot,foreign function interface,cross-platform,</p></li>
+<li><p><b>Metasploit</b><br><b>Tags: </b>ruby,postgresql,python,c,assembly,<br><b>Technologies: </b>Security,security,penetration testing,offensive security,exploitation,</p></li>
+<li><p><b>MGGG Redistricting Lab</b><br><b>Tags: </b>python,javascript,gis,julia,statistics,<br><b>Technologies: </b>End User Applications,mapping and surveying,civic tech,graph algorithms,statistics,</p></li>
+<li><p><b>MIT App Inventor</b><br><b>Tags: </b>gwt,java,javascript,<br><b>Technologies: </b>Programming Languages and Development Tools,education,mobile,</p></li>
+<li><p><b>mlpack</b><br><b>Tags: </b>c++,openmp,<br><b>Technologies: </b>Science and Medicine,machine learning,data science,deep learning,linear algebra,reinforcement learning,</p></li>
+<li><p><b>MoveIt</b><br><b>Tags: </b>c/c++,python 3,robotics,<br><b>Technologies: </b>Science and Medicine,robotics,</p></li>
+<li><p><b>MuseScore</b><br><b>Tags: </b>qt,qml,c++,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,music,notation,audio,engraving,</p></li>
+<li><p><b>mypy</b><br><b>Tags: </b>python,<br><b>Technologies: </b>Programming Languages and Development Tools,compilers,</p></li>
+<li><p><b>National Resource for Network Biology (NRNB)</b><br><b>Tags: </b>java,javascript,python,r,xml,<br><b>Technologies: </b>Science and Medicine,network biology,graphics,web application,scientific computing,data science,</p></li>
+<li><p><b>Navidrome</b><br><b>Tags: </b>react,golang,ffmpeg,<br><b>Technologies: </b>Web,music,web,streaming,</p></li>
+<li><p><b>NumFOCUS</b><br><b>Tags: </b>python,c/c++,javascript,r,julia,<br><b>Technologies: </b>Science and Medicine,scientific computing,numerical computation,graphics,data science,</p></li>
+<li><p><b>Open Bioinformatics Foundation</b><br><b>Tags: </b>python,c++,c,react,javascript,<br><b>Technologies: </b>Science and Medicine,bioinformatics,genomics,workflows,</p></li>
+<li><p><b>Open Chemistry</b><br><b>Tags: </b>c++14,c++17,python,javascript,opengl,<br><b>Technologies: </b>Science and Medicine,quantum chemistry,scientific visualization,graphics,data science,</p></li>
+<li><p><b>Open Genome Informatics</b><br><b>Tags: </b>neo4j,python,mysql,react,javascript,<br><b>Technologies: </b>Science and Medicine,computational biology,biology,genomics,bioinformatics,data and databases,</p></li>
+<li><p><b>Open Roberta</b><br><b>Tags: </b>java,typescript,python,c++,go,<br><b>Technologies: </b>Programming Languages and Development Tools,robotics,education,visual programming,</p></li>
+<li><p><b>Open Robotics</b><br><b>Tags: </b>ros,gazebo,ignition,c/c++,python,<br><b>Technologies: </b>Programming Languages and Development Tools,robotics,</p></li>
+<li><p><b>openastronomy</b><br><b>Tags: </b>python,julia,numba,spark,javascript,<br><b>Technologies: </b>Science and Medicine,astronomy,solar physics,high energy astrophysics,astrophysics,</p></li>
+<li><p><b>OpenCV</b><br><b>Tags: </b>c++,python 3,javascript,opengl,cuda,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,computer vision,robotics,</p></li>
+<li><p><b>OpenMined</b><br><b>Tags: </b>python,rust,pytorch,hyperledger aries,javascript,<br><b>Technologies: </b>Programming Languages and Development Tools,encrypted computation,federated learning,structured transparency,differential privacy,privacy,</p></li>
+<li><p><b>OpenMRS</b><br><b>Tags: </b>java,javascript,spring,mysql,android,<br><b>Technologies: </b>Science and Medicine,science and medicine,open source,electronic medical records,</p></li>
+<li><p><b>OpenStreetMap</b><br><b>Tags: </b>java,javascript,ruby,python,postgresql,<br><b>Technologies: </b>Other,maps,open data,crowdsourcing,gis,</p></li>
+<li><p><b>openSUSE Project</b><br><b>Tags: </b>kubernetes,artificial intelligence,linux,python,rust,<br><b>Technologies: </b>Operating Systems,operating systems,devops,developer tools,software quality,containers,</p></li>
+<li><p><b>OpenWISP</b><br><b>Tags: </b>python,django,openwrt,javascript,lua,<br><b>Technologies: </b>Web,network management system,wifi,mesh,hotspot,iot,</p></li>
+<li><p><b>Oppia Foundation</b><br><b>Tags: </b>angular,python,kotlin,css,typescript,<br><b>Technologies: </b>Web,education,web,interactive,nonprofit,community,</p></li>
+<li><p><b>Orcasound</b><br><b>Tags: </b>python,javascript,react,elixir,raspberry pi,<br><b>Technologies: </b>Science and Medicine,audio analysis,machine learning,real-time,scientific visualization,citizen science,</p></li>
+<li><p><b>OSGeo - Open Source Geospatial Foundation</b><br><b>Tags: </b>python,c/c++,javascript,sql,java,<br><b>Technologies: </b>Other,routing,databases,gis,open science,citizen science,</p></li>
+<li><p><b>OWASP Foundation</b><br><b>Tags: </b>python,javascript,c/c++,golang,<br><b>Technologies: </b>Security,application security,cybersecurity,top 10,pentesting,</p></li>
+<li><p><b>PEcAn Project</b><br><b>Tags: </b>r,api,docker,kubernetes,postgresql,<br><b>Technologies: </b>Science and Medicine,ecosystem models,scientific visualization,ecological forecasting,data science,climate science,</p></li>
+<li><p><b>Pharo Consortium</b><br><b>Tags: </b>pharo,smalltalk,roassal,spec,<br><b>Technologies: </b>Programming Languages and Development Tools,programming languages,virtual machines,compilers,ide,visualization,</p></li>
+<li><p><b>Pidgin Instant Messenger</b><br><b>Tags: </b>c,gtk,gstreamer,<br><b>Technologies: </b>Social / Communications,chat,web,real time,voice,video,</p></li>
+<li><p><b>Pitivi</b><br><b>Tags: </b>python,gtk,gstreamer,c,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,filmmaking,video editing,video processing,</p></li>
+<li><p><b>Plan 9 Foundation</b><br><b>Tags: </b>c,distributed systems,concurrency,golang,<br><b>Technologies: </b>Operating Systems,operating systems,distributed systems,network programming,</p></li>
+<li><p><b>Point Cloud Library</b><br><b>Tags: </b>computer vision,c++14,python,cuda,cmake,<br><b>Technologies: </b>Science and Medicine,robotics,computer vision,2d/3d graphics,data structures,gpu computing,</p></li>
+<li><p><b>Polypheny</b><br><b>Tags: </b>java,javascript,angular,sql,<br><b>Technologies: </b>Data and Databases,polystore,databases,nosql,ui,big data,</p></li>
+<li><p><b>PostgreSQL</b><br><b>Tags: </b>sql,c,python,julia,perl,<br><b>Technologies: </b>Data and Databases,relational database,data,web,postgresql,sql,</p></li>
+<li><p><b>Postman</b><br><b>Tags: </b>javascript,graphql,node.js,openapi,rest api,<br><b>Technologies: </b>Programming Languages and Development Tools,programming languages and development tools,api management,software development,productivity,apis,</p></li>
+<li><p><b>Processing Foundation</b><br><b>Tags: </b>java,javascr,python,android,opengl,<br><b>Technologies: </b>Programming Languages and Development Tools,creative coding,graphics,web,education,design,</p></li>
+<li><p><b>Project WikiLoop</b><br><b>Tags: </b>mediawiki,python,java,<br><b>Technologies: </b>Other,knowledge graphs,computer-assisted translation,cultural heritage,</p></li>
+<li><p><b>Public Lab</b><br><b>Tags: </b>ruby on rails,javascript,node,<br><b>Technologies: </b>Science and Medicine,science,environment,diversity,community,diy,</p></li>
+<li><p><b>Purr Data</b><br><b>Tags: </b>c,c++,javascript,html,css,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,graphics / video / audio / virtual reality,web development,real-time,visual programming,</p></li>
+<li><p><b>Python Software Foundation</b><br><b>Tags: </b>python,<br><b>Technologies: </b>Science and Medicine,programming languages,science and medicine,</p></li>
+<li><p><b>QEMU</b><br><b>Tags: </b>c,python,rust,linux,<br><b>Technologies: </b>Cloud,emulator,hypervisor,compiler,code generation,lowlevel,</p></li>
+<li><p><b>Qubes OS</b><br><b>Tags: </b>python,shell,c,ruby,<br><b>Technologies: </b>Operating Systems,security,privacy,virtualization,</p></li>
+<li><p><b>React Native Elements</b><br><b>Tags: </b>javascript,react,react native,<br><b>Technologies: </b>Programming Languages and Development Tools,ui toolkit,design system,</p></li>
+<li><p><b>ReactOS</b><br><b>Tags: </b>c,c++,win32,nt,<br><b>Technologies: </b>Operating Systems,operating systems,drivers,kernel,windows,applications,</p></li>
+<li><p><b>Red Hen Lab</b><br><b>Tags: </b>python,machinelearning,nlp,computer vision,big data science,<br><b>Technologies: </b>Science and Medicine,multimodal communication,language,gesture,metadata,media,</p></li>
+<li><p><b>Rizin</b><br><b>Tags: </b>c,c++,qt,python,<br><b>Technologies: </b>Security,reverse engineering,computer security,debugging,</p></li>
+<li><p><b>RoboComp</b><br><b>Tags: </b>python,c++17,qt5,opencv,pytorch,<br><b>Technologies: </b>Other,robotics,computer vision,multi-agent system,component-based development,</p></li>
+<li><p><b>Rocket.Chat</b><br><b>Tags: </b>nodejs,react,react native,kubernetes,docker,<br><b>Technologies: </b>Social / Communications,communication,community,collaboration,team,instant messaging,</p></li>
+<li><p><b>RTEMS Project</b><br><b>Tags: </b>assembly,posix,bsd unix,c/c++,python,<br><b>Technologies: </b>Operating Systems,embedded systems,multicore,iot cps,kernel,real-time,</p></li>
+<li><p><b>Ruby</b><br><b>Tags: </b>ruby on rails,<br><b>Technologies: </b>Programming Languages and Development Tools,web development,type system,performance optimization,</p></li>
+<li><p><b>SageMath</b><br><b>Tags: </b>python,cython,<br><b>Technologies: </b>Science and Medicine,education,mathematics,research,</p></li>
+<li><p><b>Samba</b><br><b>Tags: </b>c,smb,cifs,<br><b>Technologies: </b>Other,networking,enterprise,</p></li>
+<li><p><b>Scala Center</b><br><b>Tags: </b>#scala,#scala_lang,#jvm,#llvm,#js,<br><b>Technologies: </b>Programming Languages and Development Tools,#compilers,#programming-tools,#functional-programming,#programming-languages,#education,</p></li>
+<li><p><b>SCoRe Lab</b><br><b>Tags: </b>python,nodejs,android,golang,<br><b>Technologies: </b>End User Applications,information security,mobile,cloud,web development,machine learning,</p></li>
+<li><p><b>ScummVM</b><br><b>Tags: </b>c++,sdl,opengl,lua,assembly,<br><b>Technologies: </b>End User Applications,games,game engines,software preservation,software archeology,</p></li>
+<li><p><b>Shaka Player</b><br><b>Tags: </b>javascript,python,ui/ux,video codecs,web development,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,web,video,streaming,</p></li>
+<li><p><b>Software Heritage</b><br><b>Tags: </b>python,postgresql,django,git,elasticsearch,<br><b>Technologies: </b>Data and Databases,digital preservation,source code management,floss,big data,big code,</p></li>
+<li><p><b>SPDX</b><br><b>Tags: </b>python,java,rdf,golang,json,<br><b>Technologies: </b>Security,compliance,security,licensing,standards,</p></li>
+<li><p><b>STE||AR Group</b><br><b>Tags: </b>c++,python,boost,<br><b>Technologies: </b>Programming Languages and Development Tools,parallelism,concurrency,runtime systems,high-performance computing,machine learning,</p></li>
+<li><p><b>strace</b><br><b>Tags: </b>linux,c,git,shell script,make,<br><b>Technologies: </b>Operating Systems,tracing,diagnostic,debugging,</p></li>
+<li><p><b>Sugar Labs</b><br><b>Tags: </b>python gtk,javascript,react,vue.js,typescript,<br><b>Technologies: </b>End User Applications,software,education,open source,learning,collaboration,</p></li>
+<li><p><b>Swift</b><br><b>Tags: </b>swift,c++,llvm,<br><b>Technologies: </b>Programming Languages and Development Tools,programming languages and development tools,package management,programming libraries,debugging,compilers,</p></li>
+<li><p><b>SymbiFlow</b><br><b>Tags: </b>fpga,python,c/c++,verilog,<br><b>Technologies: </b>Programming Languages and Development Tools,programming languages,development tools,open hardware,</p></li>
+<li><p><b>SymPy</b><br><b>Tags: </b>python,<br><b>Technologies: </b>Science and Medicine,mathematics,symbolic mathematics,physics,</p></li>
+<li><p><b>Synfig</b><br><b>Tags: </b>c++11,gtk,gtkmm,python,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,vector graphics,animation,2d animation,</p></li>
+<li><p><b>syslog-ng</b><br><b>Tags: </b>elasticsearch,kafka,sql,python,c,<br><b>Technologies: </b>Other,cloud,logging,high performance data processing,reliable log transfer,data processing pipeline,</p></li>
+<li><p><b>Tarantool</b><br><b>Tags: </b>c,lua,sql,<br><b>Technologies: </b>Data and Databases,high performance data processing,in-memory data grid,algorithms,distributed systems,</p></li>
+<li><p><b>TARDIS SN</b><br><b>Tags: </b>python,jupyter,numba,pandas,numpy,<br><b>Technologies: </b>Science and Medicine,astrophysics,simulation,visualization,big data,</p></li>
+<li><p><b>TensorFlow</b><br><b>Tags: </b>python deep learning frameworks,javascript,c/c++,<br><b>Technologies: </b>Programming Languages and Development Tools,machine learning,deep learning,computer vision,natural language processing,cloud computing,</p></li>
+<li><p><b>The Apache Software Foundation</b><br><b>Tags: </b>java,c++,<br><b>Technologies: </b>Programming Languages and Development Tools,cloud,libraries,big data,</p></li>
+<li><p><b>The ENIGMA Team</b><br><b>Tags: </b>c++,opengl,qt5,android,<br><b>Technologies: </b>Programming Languages and Development Tools,game development,programming,game design,compiler,graphics,</p></li>
+<li><p><b>The Honeynet Project</b><br><b>Tags: </b>django,c,python,docker,c++,<br><b>Technologies: </b>Security,honeypot,fuzzing,hypervisor introspection,network analysis,malware analysis,</p></li>
+<li><p><b>The Julia Language</b><br><b>Tags: </b>julia,julialang,<br><b>Technologies: </b>Programming Languages and Development Tools,scientific computing,machine learning,numerical computing,technical computing,data science,</p></li>
+<li><p><b>The Libreswan Project</b><br><b>Tags: </b>c,python,kvm,namespaces,<br><b>Technologies: </b>Security,vpn,encryption,ipsec,ikev2,security,</p></li>
+<li><p><b>The Linux Foundation</b><br><b>Tags: </b>c,c++,cups,ipp,linux,<br><b>Technologies: </b>Operating Systems,automotive,printing,kernel,lsb,iio,</p></li>
+<li><p><b>The LLVM Compiler Infrastructure</b><br><b>Tags: </b>llvm,c/c++,clang,mlir,<br><b>Technologies: </b>Programming Languages and Development Tools,compilers,debuggers,code analysis,</p></li>
+<li><p><b>The NetBSD Foundation</b><br><b>Tags: </b>c,bsd unix,make,shell script,<br><b>Technologies: </b>Operating Systems,kernel,userland,unix,packaging,bsd,</p></li>
+<li><p><b>The ns-3 Network Simulator Project</b><br><b>Tags: </b>c++,python 3,<br><b>Technologies: </b>Science and Medicine,network analysis,simulation,emulation,</p></li>
+<li><p><b>The Palisadoes Foundation</b><br><b>Tags: </b>flutter,mongodb,node.js,graphql,javascript,<br><b>Technologies: </b>Social / Communications,mobile apps,web development,cloud computing,social impact,social good,</p></li>
+<li><p><b>The R Project for Statistical Computing</b><br><b>Tags: </b>r-project,c/c++,fortran,javascript,<br><b>Technologies: </b>Programming Languages and Development Tools,data science,visualization,statistics,graphics,machine learning,</p></li>
+<li><p><b>The Terasology Foundation</b><br><b>Tags: </b>java,opengl,gradle,lwjgl,kotlin,<br><b>Technologies: </b>End User Applications,games,game engines,ai,voxel,graphics / video / audio / virtual reality,</p></li>
+<li><p><b>TianoCore</b><br><b>Tags: </b>uefi,c,python,rust,golang,<br><b>Technologies: </b>Operating Systems,uefi,bootloader,edk2,firmware,open system firmware,</p></li>
+<li><p><b>VideoLAN</b><br><b>Tags: </b>c,c++,machine learning,video codecs,audio,<br><b>Technologies: </b>End User Applications,video decode,audio,network programming,</p></li>
+<li><p><b>vitrivr</b><br><b>Tags: </b>java,kotlin,typescript,angular,tensorflow,<br><b>Technologies: </b>Data and Databases,multimedia retrieval,machine learning,computer vision,databases,web,</p></li>
+<li><p><b>Wikimedia Foundation</b><br><b>Tags: </b>php,javascript,html,css,python,<br><b>Technologies: </b>Web,wikipedia,wikimedia,mediawiki,semantic web,i18n,</p></li>
+<li><p><b>Xfce</b><br><b>Tags: </b>gtk,c,python,vala,javascript,<br><b>Technologies: </b>End User Applications,desktop environment,gui,</p></li>
+<li><p><b>Xiph.Org Foundation</b><br><b>Tags: </b>rust,c language,assembly,x86,arm,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,video encode,video decode,multimedia,video,</p></li>
+<li><p><b>xrdesktop</b><br><b>Tags: </b>glib,openxr,vulkan,c,wayland,<br><b>Technologies: </b>Graphics / Video / Audio / Virtual Reality,graphics,3dui,virtual reality,window management,real time,</p></li>
+<li><p><b>XWiki</b><br><b>Tags: </b>java,javascript,html5,css3,velocity,<br><b>Technologies: </b>Web,web development,wiki,platform,web applications,structured data,</p></li>
+<li><p><b>Zulip</b><br><b>Tags: </b>python,react native,django,typescript,electron,<br><b>Technologies: </b>Social / Communications,mobile,chat,great developer tooling,visual design,teaching quality codebase,</p></li>
