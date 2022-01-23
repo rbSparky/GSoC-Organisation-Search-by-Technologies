@@ -18,4 +18,4 @@ Search Google Summer of Code organisations by technologies / programming languag
 ## How it was made
 I wrote a python script to automate the process of extracting data of all organisations from the GSoC 2021 website, I couldn't do it just by regulat html scraping as the blocks were expandable, so the python script opened the block, inspected the element, then copied that ```<div>``` and pasted it into a file for all the organisations. 
 
-Once all the data was collected I made the search feature over the data.
+Once all the data was collected I extracted the parts I wanted using some regex and made the search feature over the data.
